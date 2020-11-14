@@ -12,7 +12,7 @@
                 <div class="image-slider-leftbtn-1"></div>
                 <div class="image-slider-leftbtn-2"></div>
 
-            </div>
+            </div>  
             <div class="image-container">
                 <img src="./includes/pictures/shoe3.png" alt="" class="img">
             </div>

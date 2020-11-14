@@ -1,5 +1,10 @@
 <nav class='navbar'>
-    <a href="home.php" class='logo'> PHP SHOPING WEB </a>
+    <div class='logo'></div>
+    <div class="burger-icon-container">
+        <div class="burger-icon line1"></div>
+        <div class="burger-icon line2"></div>
+        <div class="burger-icon line3"></div>
+    </div>
     <ul class='nav'>
         <li><a href="home.php">Home</a></li>
         <li><a href="about.php">About</a></li>
